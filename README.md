@@ -7,6 +7,8 @@ During my first live project in my boot camp, I created an interactive website u
 
 * **Read:** On my website, I wanted users to be able to see all the restaurants I had added to the database and then be able to click into them to view details. Below, you can see how that operates. [Click here to see the code.](#read) 
 
+![All Restaurant Display](Live-Project-Python/allrest.gif)
+
 * **Update and Delete:** Users could also go into the details of the restaurant and update or delete the entry in the database. [You can see the code snippet here.](#update-and-delete)
 
 
